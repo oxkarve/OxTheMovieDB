@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F5425192-AD21-4C19-94B4-A2A0D30A835A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F83EAF1A-331B-49C3-A0FA-A09974448463"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoriTopRatedMovies/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1A253A6-7710-435A-884A-3985CBC2877B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoriTopRatedMovies/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "199C9B9A-4881-4E58-86D1-9738962C8107"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoriTopRatedMovies/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DE9ABB5-98A2-4206-B45E-1D09278E186F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoriTopRatedMovies/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA6253AC-2102-4149-A510-4164BC34F24C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoriTopRatedMovies/Scenes/Movies/MovieDetail/ViewModel/MovieDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getMovieDetail(movieId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CA6253AC-2102-4149-A510-4164BC34F24C - 8ea1ef3166d17a56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoriTopRatedMovies.MovieDetailViewModel.getMovieDetail(movieId: Swift.String) -&gt; ()"
+                  moduleName = "StoriTopRatedMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/SSD_OSK/iOS_Stori_Assesment/StoriTopRatedMovies/StoriTopRatedMovies/Scenes/Movies/MovieDetail/ViewModel/MovieDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "CA6253AC-2102-4149-A510-4164BC34F24C - da1de99ffd2f649a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (StoriTopRatedMovies.Movie) -&gt; () in StoriTopRatedMovies.MovieDetailViewModel.getMovieDetail(movieId: Swift.String) -&gt; ()"
+                  moduleName = "StoriTopRatedMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/SSD_OSK/iOS_Stori_Assesment/StoriTopRatedMovies/StoriTopRatedMovies/Scenes/Movies/MovieDetail/ViewModel/MovieDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "62">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "483B6442-2565-4EE8-9F01-7C383061F5DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoriTopRatedMovies/Scenes/Movies/MovieDetail/ViewModel/MovieDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getMovieDetail(movieId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08A5143B-A0B5-4668-BE5E-8A0D0EE6D6C1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoriTopRatedMovies/Scenes/Movies/MovieDetail/ViewModel/MovieDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "movie"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65D7FD3A-9BD3-4F41-83EC-7B938DC39634"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoriTopRatedMovies/Scenes/Movies/MovieDetail/View/MovieDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "157A19C0-3A56-4545-B234-E63FCA422474"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoriTopRatedMovies/Scenes/Movies/MovieDetail/View/MovieDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "bindRefreshData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83DBEB59-1A38-499D-A2B2-5FF9989B9A50"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoriTopRatedMovies/Scenes/Movies/MovieDetail/View/MovieDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "bindRefreshData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42507AA2-01C4-499D-B0D2-327F1F53E45B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoriTopRatedMovies/Scenes/Movies/MovieDetail/View/MovieDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "bindRefreshData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "42507AA2-01C4-499D-B0D2-327F1F53E45B - 15ae7d1fa3a37cb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoriTopRatedMovies.MovieDetailView.bindData() -&gt; ()"
+                  moduleName = "StoriTopRatedMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/SSD_OSK/iOS_Stori_Assesment/StoriTopRatedMovies/StoriTopRatedMovies/Scenes/Movies/MovieDetail/View/MovieDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "42507AA2-01C4-499D-B0D2-327F1F53E45B - 143576875d0ad7af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in StoriTopRatedMovies.MovieDetailView.bindData() -&gt; ()"
+                  moduleName = "StoriTopRatedMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/SSD_OSK/iOS_Stori_Assesment/StoriTopRatedMovies/StoriTopRatedMovies/Scenes/Movies/MovieDetail/View/MovieDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "147">
+               </Location>
+               <Location
+                  uuid = "42507AA2-01C4-499D-B0D2-327F1F53E45B - 3f49e7e0e2d271fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in StoriTopRatedMovies.MovieDetailView.bindData() -&gt; ()"
+                  moduleName = "StoriTopRatedMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/SSD_OSK/iOS_Stori_Assesment/StoriTopRatedMovies/StoriTopRatedMovies/Scenes/Movies/MovieDetail/View/MovieDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "43">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1871A27D-A645-4EB8-9C09-D6D18224640F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoriTopRatedMovies/Scenes/Movies/MovieDetail/View/MovieDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "bindRefreshData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1871A27D-A645-4EB8-9C09-D6D18224640F - 143576875d0ad78e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in StoriTopRatedMovies.MovieDetailView.bindData() -&gt; ()"
+                  moduleName = "StoriTopRatedMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/SSD_OSK/iOS_Stori_Assesment/StoriTopRatedMovies/StoriTopRatedMovies/Scenes/Movies/MovieDetail/View/MovieDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "1871A27D-A645-4EB8-9C09-D6D18224640F - 3f49e7e0e2d271fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in StoriTopRatedMovies.MovieDetailView.bindData() -&gt; ()"
+                  moduleName = "StoriTopRatedMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/SSD_OSK/iOS_Stori_Assesment/StoriTopRatedMovies/StoriTopRatedMovies/Scenes/Movies/MovieDetail/View/MovieDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "43">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B803426F-4F4F-4EC1-A9C0-3A9342702FAC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoriTopRatedMovies/Scenes/Movies/MovieDetail/View/MovieDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "bindRefreshData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3B58E1A-4284-4192-9521-956F30C4AE3F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoriTopRatedMovies/Scenes/Movies/MovieDetail/View/MovieDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getDataAndDisplayMovie()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73C667B6-15C1-42FC-9077-1811F651FF3E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoriTopRatedMovies/Scenes/Movies/MovieDetail/View/MovieDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getDataAndDisplayMovie()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3F3E823-677B-4D7A-B848-2D3E78315C4B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoriTopRatedMovies/Scenes/Movies/MovieDetail/ViewModel/MovieDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "MovieDetailViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A3F3E823-677B-4D7A-B848-2D3E78315C4B - ad35cc7cdb248464"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in variable initialization expression of StoriTopRatedMovies.MovieDetailViewModel.getDetail : () -&gt; ()"
+                  moduleName = "StoriTopRatedMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/SSD_OSK/iOS_Stori_Assesment/StoriTopRatedMovies/StoriTopRatedMovies/Scenes/Movies/MovieDetail/ViewModel/MovieDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "A3F3E823-677B-4D7A-B848-2D3E78315C4B - 58e32c56141198d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoriTopRatedMovies.MovieDetailViewModel.init() -&gt; StoriTopRatedMovies.MovieDetailViewModel"
+                  moduleName = "StoriTopRatedMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/SSD_OSK/iOS_Stori_Assesment/StoriTopRatedMovies/StoriTopRatedMovies/Scenes/Movies/MovieDetail/ViewModel/MovieDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04777AE5-5D95-447D-879B-8A7BB3CEFB2A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoriTopRatedMovies/Scenes/Movies/MovieDetail/View/MovieDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "loadView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E514117E-8B98-4135-98F3-F3E39FEA0A4C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoriTopRatedMovies/Scenes/Movies/MovieDetail/View/MovieDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9809E300-9F0B-48EF-BB7D-F947FE7F2003"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoriTopRatedMovies/Scenes/Movies/MovieDetail/View/MovieDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
